@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Profile views](https://gpvc.arturio.dev/miteshkumar77)
+
 [![Mitesh's github stats](https://github-readme-stats.vercel.app/api?username=miteshkumar77)](https://github.com/anuraghazra/github-readme-stats)
